@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install eliseomartelli/apps/<formula>`
+`brew install eliseomartelli/eliseomartelli/<formula>`
 
-Or `brew tap eliseomartelli/apps` and then `brew install <formula>`.
+Or `brew tap eliseomartelli/eliseomartelli` and then `brew install <formula>`.
 
 ## Documentation
 
