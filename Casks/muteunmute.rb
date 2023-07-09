@@ -1,6 +1,6 @@
 cask "muteunmute" do
-  version "1.4.3c"
-  sha256 "5df622b4f8f72b61414199c570a3192919beba859f23429c36a8b811f8b92139"
+  version "2.0.0"
+  sha256 "e0e858748d41b77c5784814ffd56a90e63a541b27f1148731f2f72ba2c72cbbc"
 
   url "https://github.com/eliseomartelli/MuteUnmuteMic/releases/download/#{version}/release.zip"
   name "MuteUnmuteMic"
